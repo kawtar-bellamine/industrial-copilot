@@ -1,0 +1,52 @@
+[
+ {
+  "question": "How did the pump behave when the outlet valve was closed?",
+  "note": "needs a fault-type filter, not a date",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "Was the motor hotter on 9 March than on 1 March?",
+  "note": "needs two periods and a comparison",
+  "answer": "I cannot answer from the historian: I can answer on the pump testbed and the industrial machine: sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "Show me the flow during run valve1/3",
+  "note": "answerable: flow over the run",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "When did the machine fail?",
+  "note": "answerable: the event log",
+  "answer": "4 labelled anomaly windows on the Plant/Machine over the whole history (1 planned shutdown, 1 anomaly before the failure, 1 catastrophic failure, 1 labelled anomaly): planned shutdown from 2013-12-10 06:25:00 to 2013-12-12 05:35:00 (2830.0 min); anomaly before the failure from 2013-12-15 17:50:00 to 2013-12-17 17:00:00 (2830.0 min); catastrophic failure from 2014-01-27 14:20:00 to 2014-01-29 13:30:00 (2830.0 min); labelled anomaly from 2014-02-07 14:55:00 to 2014-02-09 14:05:00 (2830.0 min). Source: NAB labels."
+ },
+ {
+  "question": "Is the pump vibrating more than usual today?",
+  "note": "'today' is outside the history: must refuse",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "What is the max pressure ever recorded on the pump?",
+  "note": "answerable: whole history",
+  "answer": "Over the whole history, the Testbed/Pump pressure averaged 0.079 bar (min -1.257, max 1.694, 45516 samples)."
+ },
+ {
+  "question": "Did the drift alarm see the machine failure coming?",
+  "note": "needs alarms and events together",
+  "answer": "4 drift alarms on the Plant/Machine temperature over the whole history, against the reference period 2013-12-02 to 2013-12-14 (mean 82.98): 2013-12-16 10:00, 2014-01-28 16:00, 2014-02-03 10:00, 2014-02-07 20:00."
+ },
+ {
+  "question": "What's the typical current draw of the pump motor?",
+  "note": "answerable: whole-history mean",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "List the cavitation tests",
+  "note": "answerable: events filtered by type",
+  "answer": "I cannot answer from the historian: I can answer on the pump testbed and the industrial machine: sensor values, labelled faults, what changed during a fault, and drift alarms."
+ },
+ {
+  "question": "Which run had the strongest vibration?",
+  "note": "needs a ranking over runs",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms."
+ }
+]

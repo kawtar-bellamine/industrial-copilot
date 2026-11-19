@@ -1,0 +1,317 @@
+{
+ "questions": 56,
+ "correct": 56,
+ "by_kind": {
+  "pump value": "23/23",
+  "machine value": "8/8",
+  "fault count": "3/3",
+  "fault signature": "8/8",
+  "machine events": "2/2",
+  "must refuse": "12/12"
+ },
+ "failures": [],
+ "grounding": {
+  "corrupted": 44,
+  "withheld": 44
+ },
+ "drift_detectors": {
+  "threshold": {
+   "windows": 18,
+   "found": 4,
+   "false_alarms": 11,
+   "false_alarms_per_30_days": 0.53,
+   "median_hours_from_window_start": 13.8,
+   "settings": {
+    "ambient_temperature_system_failure": {
+     "method": "threshold",
+     "thr": 8
+    },
+    "cpu_utilization_asg_misconfiguration": {
+     "method": "threshold",
+     "thr": 6
+    },
+    "ec2_request_latency_system_failure": {
+     "method": "threshold",
+     "thr": 8
+    },
+    "machine_temperature_system_failure": {
+     "method": "threshold",
+     "thr": 8
+    },
+    "nyc_taxi": {
+     "method": "threshold",
+     "thr": 8
+    },
+    "rogue_agent_key_hold": {
+     "method": "threshold",
+     "thr": 8
+    },
+    "rogue_agent_key_updown": {
+     "method": "threshold",
+     "thr": 8
+    }
+   },
+   "per_series": [
+    {
+     "series": "ambient_temperature_system_failure",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 281.875
+    },
+    {
+     "series": "cpu_utilization_asg_misconfiguration",
+     "windows": 1,
+     "found": 1,
+     "false_alarms": 6,
+     "days": 53.291666666666664
+    },
+    {
+     "series": "ec2_request_latency_system_failure",
+     "windows": 3,
+     "found": 2,
+     "false_alarms": 0,
+     "days": 11.875
+    },
+    {
+     "series": "machine_temperature_system_failure",
+     "windows": 3,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 66.95833333333333
+    },
+    {
+     "series": "nyc_taxi",
+     "windows": 5,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 182.70833333333334
+    },
+    {
+     "series": "rogue_agent_key_hold",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 14.458333333333334
+    },
+    {
+     "series": "rogue_agent_key_updown",
+     "windows": 2,
+     "found": 1,
+     "false_alarms": 5,
+     "days": 15.75
+    }
+   ]
+  },
+  "ewma": {
+   "windows": 18,
+   "found": 6,
+   "false_alarms": 5,
+   "false_alarms_per_30_days": 0.24,
+   "median_hours_from_window_start": 30.3,
+   "settings": {
+    "ambient_temperature_system_failure": {
+     "method": "ewma",
+     "L": 10
+    },
+    "cpu_utilization_asg_misconfiguration": {
+     "method": "ewma",
+     "L": 10
+    },
+    "ec2_request_latency_system_failure": {
+     "method": "ewma",
+     "L": 10
+    },
+    "machine_temperature_system_failure": {
+     "method": "ewma",
+     "L": 10
+    },
+    "nyc_taxi": {
+     "method": "ewma",
+     "L": 10
+    },
+    "rogue_agent_key_hold": {
+     "method": "ewma",
+     "L": 10
+    },
+    "rogue_agent_key_updown": {
+     "method": "ewma",
+     "L": 10
+    }
+   },
+   "per_series": [
+    {
+     "series": "ambient_temperature_system_failure",
+     "windows": 2,
+     "found": 2,
+     "false_alarms": 1,
+     "days": 281.875
+    },
+    {
+     "series": "cpu_utilization_asg_misconfiguration",
+     "windows": 1,
+     "found": 1,
+     "false_alarms": 1,
+     "days": 53.291666666666664
+    },
+    {
+     "series": "ec2_request_latency_system_failure",
+     "windows": 3,
+     "found": 1,
+     "false_alarms": 1,
+     "days": 11.875
+    },
+    {
+     "series": "machine_temperature_system_failure",
+     "windows": 3,
+     "found": 2,
+     "false_alarms": 0,
+     "days": 66.95833333333333
+    },
+    {
+     "series": "nyc_taxi",
+     "windows": 5,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 182.70833333333334
+    },
+    {
+     "series": "rogue_agent_key_hold",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 14.458333333333334
+    },
+    {
+     "series": "rogue_agent_key_updown",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 2,
+     "days": 15.75
+    }
+   ]
+  },
+  "cusum": {
+   "windows": 18,
+   "found": 3,
+   "false_alarms": 42,
+   "false_alarms_per_30_days": 2.01,
+   "median_hours_from_window_start": 42.5,
+   "settings": {
+    "ambient_temperature_system_failure": {
+     "method": "cusum",
+     "h": 80
+    },
+    "cpu_utilization_asg_misconfiguration": {
+     "method": "cusum",
+     "h": 160
+    },
+    "ec2_request_latency_system_failure": {
+     "method": "cusum",
+     "h": 160
+    },
+    "machine_temperature_system_failure": {
+     "method": "cusum",
+     "h": 160
+    },
+    "nyc_taxi": {
+     "method": "cusum",
+     "h": 160
+    },
+    "rogue_agent_key_hold": {
+     "method": "cusum",
+     "h": 160
+    },
+    "rogue_agent_key_updown": {
+     "method": "cusum",
+     "h": 160
+    }
+   },
+   "per_series": [
+    {
+     "series": "ambient_temperature_system_failure",
+     "windows": 2,
+     "found": 2,
+     "false_alarms": 41,
+     "days": 281.875
+    },
+    {
+     "series": "cpu_utilization_asg_misconfiguration",
+     "windows": 1,
+     "found": 1,
+     "false_alarms": 0,
+     "days": 53.291666666666664
+    },
+    {
+     "series": "ec2_request_latency_system_failure",
+     "windows": 3,
+     "found": 0,
+     "false_alarms": 1,
+     "days": 11.875
+    },
+    {
+     "series": "machine_temperature_system_failure",
+     "windows": 3,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 66.95833333333333
+    },
+    {
+     "series": "nyc_taxi",
+     "windows": 5,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 182.70833333333334
+    },
+    {
+     "series": "rogue_agent_key_hold",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 14.458333333333334
+    },
+    {
+     "series": "rogue_agent_key_updown",
+     "windows": 2,
+     "found": 0,
+     "false_alarms": 0,
+     "days": 15.75
+    }
+   ]
+  }
+ },
+ "nab_series": {
+  "ambient_temperature_system_failure": {
+   "hours": 7267,
+   "windows": 2
+  },
+  "cpu_utilization_asg_misconfiguration": {
+   "hours": 1505,
+   "windows": 1
+  },
+  "ec2_request_latency_system_failure": {
+   "hours": 336,
+   "windows": 3
+  },
+  "machine_temperature_system_failure": {
+   "hours": 1891,
+   "windows": 4
+  },
+  "nyc_taxi": {
+   "hours": 5160,
+   "windows": 5
+  },
+  "rogue_agent_key_hold": {
+   "hours": 187,
+   "windows": 2
+  },
+  "rogue_agent_key_updown": {
+   "hours": 445,
+   "windows": 2
+  }
+ },
+ "historian": {
+  "pump_runs": 35,
+  "events": 38
+ }
+}

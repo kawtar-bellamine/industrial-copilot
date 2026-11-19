@@ -1,0 +1,282 @@
+[
+ {
+  "question": "What was the average current of the pump on 2020-03-01 between 15:15 and 16:15?",
+  "answer": "On 01 Mar 2020 from 15:15 to 16:15, the Testbed/Pump current averaged 1.569 A (min 0.589, max 2.328, 745 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average pressure of the pump on 2020-03-01 between 17:00 and 18:00?",
+  "answer": "On 01 Mar 2020 from 17:00 to 18:00, the Testbed/Pump pressure averaged 0.012 bar (min -0.601, max 0.711, 1184 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average voltage of the pump on 2020-02-08 between 17:15 and 17:30?",
+  "answer": "On 08 Feb 2020 from 17:15 to 17:30, the Testbed/Pump voltage averaged 228.53 V (min 201.423, max 252.023, 854 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average fluid temperature of the pump on 2020-03-09 between 10:30 and 11:30?",
+  "answer": "On 09 Mar 2020 from 10:30 to 11:30, the Testbed/Pump fluid temperature averaged 25.629 °C (min 25.438, max 25.924, 3367 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average fluid temperature of the pump on 2020-02-08 between 17:00 and 17:30?",
+  "answer": "On 08 Feb 2020 from 17:00 to 17:30, the Testbed/Pump fluid temperature averaged 29.871 °C (min 29.704, max 30.11, 1658 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average pressure of the pump on 2020-03-09 between 14:30 and 15:30?",
+  "answer": "On 09 Mar 2020 from 14:30 to 15:30, the Testbed/Pump pressure averaged 0.041 bar (min -1.257, max 1.038, 3425 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average current of the pump on March 1, 2020 between 15:30 and 16:30?",
+  "answer": "On 01 Mar 2020 from 15:30 to 16:30, the Testbed/Pump current averaged 1.57 A (min 0.589, max 2.328, 845 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean voltage on the testbed on 9 March 2020 from 13:15 to 14:15?",
+  "answer": "On 09 Mar 2020 from 13:15 to 14:15, the Testbed/Pump voltage averaged 230.578 V (min 203.382, max 254.767, 3433 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average motor temperature of the pump on 2020-03-01 between 17:15 and 17:45?",
+  "answer": "On 01 Mar 2020 from 17:15 to 17:45, the Testbed/Pump motor temperature averaged 87.098 °C (min 85.882, max 88.133, 332 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean motor temperature on the testbed on March 9, 2020 from 13:00 to 14:00?",
+  "answer": "On 09 Mar 2020 from 13:00 to 14:00, the Testbed/Pump motor temperature averaged 68.991 °C (min 66.236, max 70.382, 3438 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average voltage of the pump on 2020-03-01 between 17:15 and 17:45?",
+  "answer": "On 01 Mar 2020 from 17:15 to 17:45, the Testbed/Pump voltage averaged 229.251 V (min 204.862, max 253.344, 332 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean pressure on the testbed on 9 March 2020 from 16:00 to 16:30?",
+  "answer": "On 09 Mar 2020 from 16:00 to 16:30, the Testbed/Pump pressure averaged 0.045 bar (min -0.929, max 1.038, 1684 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean voltage on the testbed on 8 February 2020 from 18:00 to 19:00?",
+  "answer": "On 08 Feb 2020 from 18:00 to 19:00, the Testbed/Pump voltage averaged 227.807 V (min 200.925, max 251.511, 3102 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average voltage of the pump on 9 March 2020 between 15:30 and 16:00?",
+  "answer": "On 09 Mar 2020 from 15:30 to 16:00, the Testbed/Pump voltage averaged 230.313 V (min 203.615, max 253.97, 467 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average flow rate of the pump on 2020-02-08 between 15:15 and 16:15?",
+  "answer": "On 08 Feb 2020 from 15:15 to 16:15, the Testbed/Pump flow averaged 126.399 L/min (min 123.0, max 128.353, 3438 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean flow rate on the testbed on 9 March 2020 from 14:30 to 15:30?",
+  "answer": "On 09 Mar 2020 from 14:30 to 15:30, the Testbed/Pump flow averaged 30.453 L/min (min 22.0, max 33.969, 3425 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean current on the testbed on 9 March 2020 from 16:30 to 17:00?",
+  "answer": "On 09 Mar 2020 from 16:30 to 17:00, the Testbed/Pump current averaged 0.981 A (min 0.384, max 1.547, 1633 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean current on the testbed on 2020-02-08 from 17:00 to 17:30?",
+  "answer": "On 08 Feb 2020 from 17:00 to 17:30, the Testbed/Pump current averaged 2.416 A (min 0.897, max 3.233, 1658 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average fluid temperature of the pump on 8 February 2020 between 18:00 and 18:30?",
+  "answer": "On 08 Feb 2020 from 18:00 to 18:30, the Testbed/Pump fluid temperature averaged 30.947 °C (min 29.841, max 32.077, 1707 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean motor temperature on the testbed on 2020-02-08 from 16:15 to 17:15?",
+  "answer": "On 08 Feb 2020 from 16:15 to 17:15, the Testbed/Pump motor temperature averaged 88.546 °C (min 87.666, max 89.384, 3370 samples).",
+  "ok": true
+ },
+ {
+  "question": "Mean motor temperature on the testbed on March 9, 2020 from 14:30 to 15:00?",
+  "answer": "On 09 Mar 2020 from 14:30 to 15:00, the Testbed/Pump motor temperature averaged 67.763 °C (min 65.392, max 69.405, 1708 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average pressure of the pump on 2020-02-08 between 14:00 and 14:15?",
+  "answer": "On 08 Feb 2020 from 14:00 to 14:15, the Testbed/Pump pressure averaged 0.103 bar (min -0.601, max 0.711, 843 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the average motor temperature of the pump on 8 February 2020 between 16:30 and 16:45?",
+  "answer": "On 08 Feb 2020 from 16:30 to 16:45, the Testbed/Pump motor temperature averaged 88.606 °C (min 87.89, max 89.384, 859 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the machine temperature on 21 Dec 2013? Give the max.",
+  "answer": "On 21 Dec 2013, the Plant/Machine temperature averaged 88.569 (min 77.622, max 92.843, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "Average temperature of the industrial machine on 13 Feb 2014?",
+  "answer": "On 13 Feb 2014, the Plant/Machine temperature averaged 93.301 (min 73.799, max 101.343, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the machine temperature on 2014-02-06? Give the max.",
+  "answer": "On 06 Feb 2014, the Plant/Machine temperature averaged 94.485 (min 86.355, max 102.62, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "What was the machine temperature on 12 Feb 2014? Give the max.",
+  "answer": "On 12 Feb 2014, the Plant/Machine temperature averaged 98.778 (min 93.206, max 102.902, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "Average temperature of the industrial machine on 23 Jan 2014?",
+  "answer": "On 23 Jan 2014, the Plant/Machine temperature averaged 87.735 (min 72.955, max 93.944, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "Average temperature of the industrial machine on 2 Feb 2014?",
+  "answer": "On 02 Feb 2014, the Plant/Machine temperature averaged 93.652 (min 82.208, max 101.405, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "Average temperature of the industrial machine on 2013-12-27?",
+  "answer": "On 27 Dec 2013, the Plant/Machine temperature averaged 86.673 (min 60.026, max 97.452, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "Average temperature of the industrial machine on 2014-01-28?",
+  "answer": "On 28 Jan 2014, the Plant/Machine temperature averaged 60.893 (min 51.246, max 76.012, 288 samples).",
+  "ok": true
+ },
+ {
+  "question": "How many faults were labelled on the pump on 2020-02-08?",
+  "answer": "10 labelled faults on the Testbed/Pump on 08 Feb 2020 (5 rotor imbalance, 3 water level change, 2 cavitation): rotor imbalance from 2020-02-08 16:16:48 to 16:23:56 (7.1 min); rotor imbalance from 2020-02-08 16:37:09 to 16:44:09 (7.0 min); rotor imbalance from 2020-02-08 16:57:11 to 17:03:13 (6.0 min); rotor imbalance from 2020-02-08 17:17:12 to 17:24:13 (7.0 min); rotor imbalance from 2020-02-08 17:37:18 to 17:44:18 (7.0 min); water level change from 2020-02-08 17:57:44 to 18:08:02 (10.3 min), list truncated. Source: SKAB labels.",
+  "ok": true
+ },
+ {
+  "question": "How many faults were labelled on the pump on 2020-03-01?",
+  "answer": "4 labelled faults on the Testbed/Pump on 01 Mar 2020 (4 fluid leak or addition): fluid leak or addition from 2020-03-01 15:53:50 to 15:57:06 (3.3 min); fluid leak or addition from 2020-03-01 16:34:10 to 16:40:52 (6.7 min); fluid leak or addition from 2020-03-01 16:53:53 to 17:00:52 (7.0 min); fluid leak or addition from 2020-03-01 17:13:53 to 17:20:49 (6.9 min). Source: SKAB labels.",
+  "ok": true
+ },
+ {
+  "question": "How many faults were labelled on the pump on 2020-03-09?",
+  "answer": "20 labelled faults on the Testbed/Pump on 09 Mar 2020 (16 inlet valve closed, 4 outlet valve closed): inlet valve closed from 2020-03-09 10:24:33 to 10:31:32 (7.0 min); inlet valve closed from 2020-03-09 10:44:33 to 10:51:33 (7.0 min); inlet valve closed from 2020-03-09 11:05:40 to 11:11:33 (5.9 min); inlet valve closed from 2020-03-09 11:24:34 to 11:31:35 (7.0 min); inlet valve closed from 2020-03-09 11:44:36 to 11:51:34 (7.0 min); inlet valve closed from 2020-03-09 12:04:36 to 12:11:35 (7.0 min), list truncated. Source: SKAB labels.",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run valve1/7?",
+  "answer": "During the inlet valve closed from 2020-03-09 12:44:37 (7.0 min), the largest changes against the 120 seconds before were: flow 32.449 to 29.807 L/min (-5.4 standard deviations); fluid temperature 24.906 to 24.89 °C (-2.4 standard deviations); motor temperature 70.436 to 70.249 °C (-1.2 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run other/8?",
+  "answer": "During the rotor imbalance from 2020-02-08 17:17:12 (7.0 min), the largest changes against the 120 seconds before were: fluid temperature 29.834 to 29.919 °C (+5.4 standard deviations); vibration 1 0.223 to 0.218 g (-1.0 standard deviations); vibration 2 0.264 to 0.266 g (+0.9 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run other/11?",
+  "answer": "During the water level change from 2020-02-08 18:20:42 (7.9 min), the largest changes against the 120 seconds before were: fluid temperature 30.617 to 30.134 °C (-5.5 standard deviations); vibration 2 0.288 to 0.3 g (+2.8 standard deviations); vibration 1 0.241 to 0.236 g (-1.6 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run other/5?",
+  "answer": "During the rotor imbalance from 2020-02-08 16:16:48 (7.1 min), the largest changes against the 120 seconds before were: vibration 2 0.271 to 0.735 g (+255.8 standard deviations); vibration 1 0.219 to 0.632 g (+136.6 standard deviations); fluid temperature 29.361 to 29.401 °C (+4.0 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run valve1/4?",
+  "answer": "During the inlet valve closed from 2020-03-09 11:44:36 (7.0 min), the largest changes against the 120 seconds before were: fluid temperature 25.362 to 25.313 °C (-3.7 standard deviations); motor temperature 70.14 to 70.547 °C (+2.1 standard deviations); flow 32.263 to 31.413 L/min (-1.9 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run other/9?",
+  "answer": "During the rotor imbalance from 2020-02-08 17:37:18 (7.0 min), the largest changes against the 120 seconds before were: vibration 2 0.276 to 0.653 g (+99.8 standard deviations); vibration 1 0.232 to 0.586 g (+80.1 standard deviations); flow 127.711 to 125.579 L/min (-5.2 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run valve1/3?",
+  "answer": "During the inlet valve closed from 2020-03-09 11:24:34 (7.0 min), the largest changes against the 120 seconds before were: flow 32.104 to 30.656 L/min (-4.4 standard deviations); fluid temperature 25.505 to 25.482 °C (-1.4 standard deviations); motor temperature 71.167 to 71.219 °C (+0.4 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What changed during the fault in run valve2/2?",
+  "answer": "During the outlet valve closed from 2020-03-09 16:46:31 (7.0 min), the largest changes against the 120 seconds before were: motor temperature 66.374 to 67.766 °C (+3.4 standard deviations); flow 31.973 to 30.813 L/min (-2.7 standard deviations); fluid temperature 24.201 to 24.184 °C (-1.8 standard deviations).",
+  "ok": true
+ },
+ {
+  "question": "What happened to the industrial machine?",
+  "answer": "4 labelled anomaly windows on the Plant/Machine over the whole history (1 planned shutdown, 1 anomaly before the failure, 1 catastrophic failure, 1 labelled anomaly): planned shutdown from 2013-12-10 06:25:00 to 2013-12-12 05:35:00 (2830.0 min); anomaly before the failure from 2013-12-15 17:50:00 to 2013-12-17 17:00:00 (2830.0 min); catastrophic failure from 2014-01-27 14:20:00 to 2014-01-29 13:30:00 (2830.0 min); labelled anomaly from 2014-02-07 14:55:00 to 2014-02-09 14:05:00 (2830.0 min). Source: NAB labels.",
+  "ok": true
+ },
+ {
+  "question": "Was there a planned shutdown of the industrial machine?",
+  "answer": "4 labelled anomaly windows on the Plant/Machine over the whole history (1 planned shutdown, 1 anomaly before the failure, 1 catastrophic failure, 1 labelled anomaly): planned shutdown from 2013-12-10 06:25:00 to 2013-12-12 05:35:00 (2830.0 min); anomaly before the failure from 2013-12-15 17:50:00 to 2013-12-17 17:00:00 (2830.0 min); catastrophic failure from 2014-01-27 14:20:00 to 2014-01-29 13:30:00 (2830.0 min); labelled anomaly from 2014-02-07 14:55:00 to 2014-02-09 14:05:00 (2830.0 min). Source: NAB labels.",
+  "ok": true
+ },
+ {
+  "question": "What was the humidity of the pump on 9 March 2020?",
+  "answer": "I cannot answer from the historian: 'humidity' is not recorded (tags: Testbed/Pump: vibration_1, vibration_2, current, pressure, motor_temperature, fluid_temperature, voltage, flow; Plant/Machine: temperature).",
+  "ok": true
+ },
+ {
+  "question": "Average vibration of compressor C2 yesterday?",
+  "answer": "I cannot answer from the historian: there is no 'compressor C2' in the historian (assets: Testbed/Pump, Plant/Machine).",
+  "ok": true
+ },
+ {
+  "question": "What was the pump flow on 2021-05-01?",
+  "answer": "I cannot answer from the historian: no Testbed/Pump data between 2021-05-01 00:00 and 2021-05-02 00:00 (history covers 2020-02-08 13:30 to 2020-03-09 17:14).",
+  "ok": true
+ },
+ {
+  "question": "Average current of the pump on 2019-03-09?",
+  "answer": "I cannot answer from the historian: no Testbed/Pump data between 2019-03-09 00:00 and 2019-03-10 00:00 (history covers 2020-02-08 13:30 to 2020-03-09 17:14).",
+  "ok": true
+ },
+ {
+  "question": "What will the machine temperature be tomorrow?",
+  "answer": "I cannot answer from the historian: I report on recorded data only; I do not forecast.",
+  "ok": true
+ },
+ {
+  "question": "Forecast the pump pressure for next week",
+  "answer": "I cannot answer from the historian: I report on recorded data only; I do not forecast.",
+  "ok": true
+ },
+ {
+  "question": "What was the speed of the pump on 9 March 2020?",
+  "answer": "I cannot answer from the historian: 'speed' is not recorded (tags: Testbed/Pump: vibration_1, vibration_2, current, pressure, motor_temperature, fluid_temperature, voltage, flow; Plant/Machine: temperature).",
+  "ok": true
+ },
+ {
+  "question": "Torque of the industrial machine on 2014-01-10?",
+  "answer": "I cannot answer from the historian: 'torque' is not recorded (tags: Testbed/Pump: vibration_1, vibration_2, current, pressure, motor_temperature, fluid_temperature, voltage, flow; Plant/Machine: temperature).",
+  "ok": true
+ },
+ {
+  "question": "Average pressure of machine M7 on 2020-03-09?",
+  "answer": "I cannot answer from the historian: there is no 'press' in the historian (assets: Testbed/Pump, Plant/Machine).",
+  "ok": true
+ },
+ {
+  "question": "Write me a poem about pumps",
+  "answer": "I cannot answer from the historian: I can answer on the pump testbed and the industrial machine: sensor values, labelled faults, what changed during a fault, and drift alarms.",
+  "ok": true
+ },
+ {
+  "question": "What was the pump pressure on 15 Dec 2013?",
+  "answer": "I cannot answer from the historian: no Testbed/Pump data between 2013-12-15 00:00 and 2013-12-16 00:00 (history covers 2020-02-08 13:30 to 2020-03-09 17:14).",
+  "ok": true
+ },
+ {
+  "question": "Who was the operator on the testbed?",
+  "answer": "I cannot answer from the historian: I can answer on sensor values, labelled faults, what changed during a fault, and drift alarms.",
+  "ok": true
+ }
+]

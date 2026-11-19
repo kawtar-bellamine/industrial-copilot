@@ -1,0 +1,4 @@
+machine,tag,start,kind
+Filler,temperature,2026-10-10 15:36:00,slope
+Capper,vibration,2026-10-14 08:24:00,step
+Palletiser,pressure,2026-10-08 06:00:00,slope
